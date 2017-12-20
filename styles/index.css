@@ -1,0 +1,55 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 6px;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px rgb(138, 0, 0);
+}
+
+img {
+    width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+p,
+a,
+li {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+a {
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+button {
+    background-color: rgb(88, 244, 255);
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    color: #005374;
+    font-size: 18px;
+    display: block;
+    margin: 0 auto;
+}
